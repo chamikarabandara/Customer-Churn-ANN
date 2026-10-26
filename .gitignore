@@ -12,10 +12,8 @@ env/
 .env
 .env.*
 
-# Dataset files - do not upload customer data
-data/raw/*
+# Dataset files
 data/processed/*
-!data/raw/.gitkeep
 !data/processed/.gitkeep
 
 # Trained models

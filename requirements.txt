@@ -2,11 +2,12 @@ pandas
 numpy
 matplotlib
 seaborn
-scikit-learn
-tensorflow
 streamlit
-plotly
-joblib
 shap
 jupyter
 ipykernel
+streamlit==1.66.1
+plotly
+scikit-learn==1.6.1
+joblib==1.5.2
+tensorflow==2.21.0
